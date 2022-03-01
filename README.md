@@ -1,3 +1,3 @@
-## The BEHOMO project
+# The BEHOMO project
 
 
