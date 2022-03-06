@@ -10,9 +10,9 @@ aside: false
 
 {% include figure.html image="/BEHOMO-project/assets/vale.jpg" position="left" width="300px" %}
 
-
-Cosmo-ufes & Physics Department
-Federal University of Espírito Santo
+Valerio Marra\
+Cosmo-ufes & Physics Department\
+Federal University of Espírito Santo\
 Vitória, Brazil
 
 *{{ site.email }}*
