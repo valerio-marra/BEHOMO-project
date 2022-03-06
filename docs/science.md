@@ -2,7 +2,7 @@
 title: Science
 feature_text: |
   # <span style="color:white">Science</span>.
-feature_image: <img src="/BEHOMO-project/assets/banner.jpg" width="100"/>
+feature_image: <img src="/BEHOMO-project/assets/banner.jpg" height="100">
 excerpt: ""
 layout: page
 aside: false
