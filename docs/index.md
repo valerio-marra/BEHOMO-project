@@ -1,8 +1,8 @@
 ---
 title: Home
 feature_text: |
-  # Emilio Bellini
-  *Cosmologist, University of Geneva*
+  # The BEHOMO project
+  *Cosmology BEyond large-scale HOMOgeneity and isotropy*
 feature_image: "/assets/back.png"
 excerpt: ""
 layout: page
@@ -11,7 +11,7 @@ aside: false
 
 <!-- {% include figure.html image="/assets/profile.jpeg" position="left" width="299px" %} -->
 
-<img src="assets/profile.jpeg" position="left" width="299px" >
+<img src="assets/void.gif" position="left" width="299px" >
 
 ###### Welcome to my homepage!  
 
