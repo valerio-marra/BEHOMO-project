@@ -60,7 +60,7 @@ permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: America/Brazil # Timezone for blog posts and alike
 
-5. Collections
+# 5. Collections
 collections:
   posts:
     title: Posts # Needed for Siteleaf
@@ -70,7 +70,7 @@ collections:
       Welcome to the blog
     feature_image: "/BEHOMO-project/assets/banner.jpg"
 
-6. Jekyll collections settings
+# 6. Jekyll collections settings
 defaults:
   -
     scope:
