@@ -88,7 +88,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      layout: page # Set the default layout for pages
+      layout: default # Set the default layout for pages
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
