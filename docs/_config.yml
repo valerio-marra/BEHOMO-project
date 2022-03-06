@@ -132,7 +132,7 @@ navigation_header:
   url: /software/
 - title: Outreach
   url: /outreach/
-  - title: Contact
+- title: Contact
   url: /contact/
 
 navigation_footer:
