@@ -102,8 +102,8 @@ repo: "https://github.com/valerio-marra/BEHOMO-project"
 email: "valerio.marra@me.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
-google_analytics: "G-2K72ZB386Y"
-google_analytics_anonymize_ip: false
+# google_analytics: "G-2K72ZB386Y"
+# google_analytics_anonymize_ip: false
 # service_worker: false # Will turn off the service worker if set to false
 short_name: "BEHOMO-project" # The web application short name, defaults to the site title
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
