@@ -24,11 +24,11 @@
     <link rel="manifest" href="{{ "/manifest.json" | relative_url }}">
     <meta name="theme-color" content="{{ site.manifest.theme_color | default: '#242e2b' }}"/>
 
-    <link rel="stylesheet" href="/assets/css/academicons.css">
+    <link rel="stylesheet" href="/BEHOMO-project/assets/css/academicons.css">
     {% if site.css_inline == true %}
       {% include site-styles.html %}
     {% else %}
-      <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
+      <link rel="stylesheet" href="{{ "/BEHOMO-project/assets/styles.css" | relative_url }}">
     {% endif %}
 
     {% if site.favicons or site.avatarurl %}{% include site-favicons.html %}{% endif %}
