@@ -8,7 +8,7 @@ layout: page
 aside: false
 ---
 
-{% include figure.html image="/assets/void_arrow.gif" width="500px" link="https://github.com/valerio-marra/BEHOMO-project" %}
+{% include figure.html image="/BEHOMO-project/assets/void_arrow.gif" width="500px" link="https://github.com/valerio-marra/BEHOMO-project" %}
 
 During my 
 
