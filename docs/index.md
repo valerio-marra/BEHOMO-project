@@ -1,93 +1,35 @@
 ---
-title: About Alembic
+title: Home
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+  # Emilio Bellini
+  *Cosmologist, University of Geneva*
+feature_image: "/assets/back.png"
+excerpt: ""
+layout: page
+aside: false
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+<!-- {% include figure.html image="/assets/profile.jpeg" position="left" width="299px" %} -->
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+<img src="assets/profile.jpeg" position="left" width="299px" >
 
-## Features
+###### Welcome to my homepage!  
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Clear and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+I am a cosmologist, currently postdoct at the [University of Geneva](https://www.unige.ch/). Previously, I was holding a Beecroft fellowship at the [University of Oxford](https://www2.physics.ox.ac.uk/) and a junior research fellowship at [Queen's College](https://www.queens.ox.ac.uk/). After completing my Ph.D. at the [University of Padova](https://www.unipd.it/), Italy, I spent one year visiting the [Institute for Theoretical Physics](https://www.thphys.uni-heidelberg.de/index.php?lang=e), [University of Heidelberg](https://www.uni-heidelberg.de/en), Germany. I have also been a postdoctoral researcher at the [Institute of Cosmo Sciences](http://icc.ub.edu/), [University of Barcelona](https://www.ub.edu/web/ub/en/index.html?), Spain.
 
-## Examples
+My research activity is mainly devoted to the study of the laws of gravity at the largest measurable scales of the universe. The aim is to test the robustness of General Relativity - our standard theory of gravity - up to cosmological scales, in yet unexplored regimes. This gives us hints on the observed accelerated expansion of the universe, the nature of gravity and its connection with fundamental physics. My focus is both on the theory side and on the comparison with data. I have also worked on other topics such as Black Hole physics, Gravitational Waves and their implication in alternative theories of gravity and neutrino physics in cosmology.
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+Check out my [research & publications](/research_and_publications/) section, if you want some more detail about my academic interests.
 
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
+Have a look at my [software](/software/) section. You will find codes that I have written, plus a few random tools that I really like.
 
-## Installation
 
-### Quick setup
+{% include figure.html image="/assets/logo_unige.jpg" position="right" width="200px" link="https://www.unige.ch/sciences/physique/theorique/en/" %}
+<!-- {% include figure.html image="/assets/oxford_logo.png" position="right" width="115px" link="https://www2.physics.ox.ac.uk/" %}{% include figure.html image="/assets/queens_logo.png" position="right" width="100px" link="https://www.queens.ox.ac.uk/" %} -->
 
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
 
-- ⚗️🍨 Vanilla Jekyll starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
-- ⚗️🌲 Forestry starter kit  
-  [![Deploy to Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=daviddarnes/alembic-forestry-kit&engine=jekyll){:style="background: none"}  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-forestry-kit){:style="background: none"}
-- ⚗️💠 Netlify CMS starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms){:style="background: none"}
-
-- ⚗️:octocat: GitHub Pages with remote theme kit  
-  {% include button.html text="Download kit" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip" color="#24292e" %}
-- ⚗️🚀 Stackbit starter kit  
-  [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/daviddarnes/alembic-stackbit-kit){:style="background: none"}
-
-### As a Jekyll theme
-
-1. Add `gem "alembic-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: alembic-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-### As a GitHub Pages remote theme
-
-1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
-4. Add `remote_theme: daviddarnes/alembic@main` to your `_config.yml` file to set the site theme
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-### As a Boilerplate / Fork
-
-_(deprecated, not recommended)_
-
-1. [Fork the repo](https://github.com/daviddarnes/alembic#fork-destination-box)
-2. Replace the `Gemfile` with one stating all the gems used in your project
-3. Delete the following unnecessary files/folders: `.github`, `LICENSE`, `screenshot.png`, `CNAME` and `alembic-jekyll-theme.gemspec`
-4. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-## Customising
-
-When using Alembic as a theme means you can take advantage of the file overriding method. This allows you to overwrite any file in this theme with your own custom file, by matching the file name and path. The most common example of this would be if you want to add your own styles or change the core style settings.
-
-To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
-
-If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
+<!-- {% capture link %}{{ site.links.orcid }}{% endcapture %}{% include button_ai.html link=link text="ORCID" icon="orcid" color="#a6ce39" %}
+{% capture link %}{{ site.links.researcherid }}{% endcapture %}{% include button_ai.html link=link text="ResearcherID" icon="researcherid" color="#336699" %}
+{% capture link %}{{ site.links.researchgate }}{% endcapture %}{% include button_ai.html link=link text="ResearchGate" icon="researchgate" color="#00ccbb" %}
+{% capture link %}{{ site.links.linkedin }}{% endcapture %}{% include button.html link=link text="LinkedIn" icon="linkedin" color="#0077b5" %}
+{% capture link %}{{ site.links.link }}{% endcapture %}{% include button.html link=link text="This Site" icon="link" color="" %} -->
