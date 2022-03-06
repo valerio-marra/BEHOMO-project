@@ -68,7 +68,7 @@ collections:
     description: "My thoughts and ideas" # The post list page content
     feature_text: |
       Welcome to the blog
-    feature_image: "/assets/banner.jpg"
+    feature_image: "/BEHOMO-project/docs/assets/banner.jpg"
 
 # 6. Jekyll collections settings
 defaults:
@@ -76,7 +76,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/banner.jpg" # Default image for sharing
+      image: "/BEHOMO-project/docs/assets/banner.jpg" # Default image for sharing
   -
     scope:
       path: ""
@@ -94,7 +94,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "The BEHOMO project" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/BEHOMO-project/docs/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "This is the website for the cosmology BEyond large-scale HOMOgeneity and isotropy project." # Site description and default description, also used in jekyll-seo-tag
 url: "https://valerio-marra.github.io/BEHOMO-project/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -110,14 +110,14 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/assets/logos/logo@16px.png'
-  32: '/assets/logos/logo@32px.png'
-  96: '/assets/logos/logo@96px.png'
-  120: '/assets/logos/logo@120px.png'
-  144: '/assets/logos/logo@144px.png'
-  180: '/assets/logos/logo@180px.png'
-  512: '/assets/logos/logo@512px.png'
-  1024: '/assets/logos/logo@1024px.png'
+  16: '/BEHOMO-project/docs/assets/logos/logo@16px.png'
+  32: '/BEHOMO-project/docs/assets/logos/logo@32px.png'
+  96: '/BEHOMO-project/docs/assets/logos/logo@96px.png'
+  120: '/BEHOMO-project/docs/assets/logos/logo@120px.png'
+  144: '/BEHOMO-project/docs/assets/logos/logo@144px.png'
+  180: '/BEHOMO-project/docs/assets/logos/logo@180px.png'
+  512: '/BEHOMO-project/docs/assets/logos/logo@512px.png'
+  1024: '/BEHOMO-project/docs/assets/logos/logo@1024px.png'
 
 
 # 9. Site navigation
