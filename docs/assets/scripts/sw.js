@@ -1,23 +1,21 @@
 ---
 permalink: "/sw.js"
-layout: null
-sitemap: false
+layout: none
 ---
-
 const version = '{{ site.time | date: '%Y%m%d%H%M%S' }}';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
   return [
     {%- for post in site.posts limit: 10 -%}
-      "{{ post.url | relative_url }}",
+      "{{ post.url }}",
     {%- endfor -%}
     {%- for page in site.pages -%}
       {%- unless page.url contains 'sw.js' or page.url contains '404.html' -%}
-        "{{ page.url | relative_url }}",
+        "{{ page.url }}",
       {%- endunless -%}
     {%- endfor -%}
-      "{{ site.logo | relative_url }}", "{{ site.baseurl }}/assets/default-offline-image.png", "{{ site.baseurl }}/assets/scripts/fetch.js"
+      "{{ site.logo }}", "/BEHOMO-project/assets/banner_offline.jpg", "/BEHOMO-project/assets/scripts/fetch.js"
   ]
 }
 
@@ -75,7 +73,7 @@ self.addEventListener("fetch", event => {
 
   if (request.url.match(/\.(jpe?g|png|gif|svg)$/)) {
     // If url requested is an image and isn't cached, return default offline image
-    offlineAsset = "{{ site.baseurl }}/assets/default-offline-image.png";
+    offlineAsset = "/BEHOMO-project/assets/banner_offline.jpg";
   }
 
   // For all urls request image from network, then fallback to cache, then fallback to offline page
