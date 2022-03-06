@@ -61,34 +61,34 @@ excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: America/Brazil # Timezone for blog posts and alike
 
 # 5. Collections
-collections:
-  posts:
-    title: Posts # Needed for Siteleaf
-    output: true
-    description: "My thoughts and ideas" # The post list page content
-    feature_text: |
-      Welcome to the blog
-    feature_image: "/BEHOMO-project/docs/assets/banner.jpg"
+# collections:
+#   posts:
+#     title: Posts # Needed for Siteleaf
+#     output: true
+#     description: "My thoughts and ideas" # The post list page content
+#     feature_text: |
+#       Welcome to the blog
+#     feature_image: "/BEHOMO-project/docs/assets/banner.jpg"
 
 # 6. Jekyll collections settings
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      image: "/BEHOMO-project/docs/assets/banner.jpg" # Default image for sharing
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: post # Set the default layout for posts
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: page # Set the default layout for pages
+# defaults:
+#   -
+#     scope:
+#       path: ""
+#     values:
+#       image: "/BEHOMO-project/docs/assets/banner.jpg" # Default image for sharing
+#   -
+#     scope:
+#       path: ""
+#       type: "posts"
+#     values:
+#       layout: post # Set the default layout for posts
+#   -
+#     scope:
+#       path: ""
+#       type: "pages"
+#     values:
+#       layout: page # Set the default layout for pages
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
@@ -132,8 +132,8 @@ navigation_header:
   url: /BEHOMO-project/data_products
 - title: Outreach
   url: /BEHOMO-project/outreach
-- title: Blog
-  url: /BEHOMO-project/blog/
+# - title: Blog
+#   url: /BEHOMO-project/blog/
 - title: Contact
   url: /BEHOMO-project/contact
 
@@ -169,8 +169,8 @@ sharing_links: # Appear at the bottom of single blog posts, add as desired. The 
 #
 # TIP: Try to keep the number of urls as low to reduce the performance cost
 #      If multiple fonts can be requested in a single url opt for this
-fonts:
-  preconnect_urls:
-    - https://fonts.gstatic.com
-  font_urls:
-    - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
+# fonts:
+#   preconnect_urls:
+#     - https://fonts.gstatic.com
+#   font_urls:
+#     - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
