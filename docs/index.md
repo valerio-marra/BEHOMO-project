@@ -3,7 +3,7 @@ title: Home
 feature_text: |
   # <span style="color:white">The BEHOMO project</span>.
   <span style="color:white">*Cosmology beyond large-scale homogeneity and isotropy*</span>.
-feature_image: <img src="//images.weserv.nl/?url=https://github.com/valerio-marra/BEHOMO-project/raw/main/docs/assets/banner.jpg&h=100">
+feature_image: "/BEHOMO-project/assets/banner.jpg"
 excerpt: ""
 layout: page
 aside: false
