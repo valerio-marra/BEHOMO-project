@@ -123,19 +123,19 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: /BEHOMO-project/docs/
+  url: /BEHOMO-project/
 - title: Science
-  url: /BEHOMO-project/docs/science/
-- title: Data products
-  url: /BEHOMO-project/docs/data_products/
+  url: /BEHOMO-project/science
 - title: Results
-  url: /BEHOMO-project/docs/software/
+  url: /BEHOMO-project/results
+- title: Data products
+  url: /BEHOMO-project/data_products
 - title: Outreach
-  url: /BEHOMO-project/docs/outreach/
+  url: /BEHOMO-project/outreach
 - title: Blog
-  url: /BEHOMO-project/docs/blog/
+  url: /BEHOMO-project/blog/
 - title: Contact
-  url: /BEHOMO-project/docs/contact/
+  url: /BEHOMO-project/contact
 
 navigation_footer:
 - title: Adapted from Alembic theme
