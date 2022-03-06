@@ -2,7 +2,7 @@
 title: Home
 feature_text: |
   # The BEHOMO project
-  *Cosmology BEyond large-scale HOMOgeneity and isotropy*
+  *Cosmology beyond large-scale homogeneity and isotropy*
 feature_image: "/assets/banner.png"
 excerpt: ""
 layout: page
