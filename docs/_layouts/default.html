@@ -14,8 +14,9 @@
 
       {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
       <title>{{ collectiondata.title }} - {{ site.title }}</title>
+      <font color="green"> 
       <meta property="og:title" content="{{ collectiondata.title }}">
-      <font color="green">  
+      </font>  
       <meta name="description" content="{{ collectiondata.description }}">
       <meta property="og:description" content="{{ collectiondata.description }}">
     {% else %}
