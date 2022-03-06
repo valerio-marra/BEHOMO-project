@@ -11,9 +11,9 @@ aside: false
 
 <!-- {% include figure.html image="/assets/profile.jpeg" position="left" width="299px" %} -->
 
-<img src="/BEHOMO-project/assets/void.gif" position="left" width="299px" >
+<!-- <img src="/BEHOMO-project/assets/void.gif" position="left" width="299px" > -->
 
-###### Welcome to my homepage!  
+###### Welcome to t homepage!  
 
 I am a cosmologist, currently postdoct at the [University of Geneva](https://www.unige.ch/). Previously, I was holding a Beecroft fellowship at the [University of Oxford](https://www2.physics.ox.ac.uk/) and a junior research fellowship at [Queen's College](https://www.queens.ox.ac.uk/). After completing my Ph.D. at the [University of Padova](https://www.unipd.it/), Italy, I spent one year visiting the [Institute for Theoretical Physics](https://www.thphys.uni-heidelberg.de/index.php?lang=e), [University of Heidelberg](https://www.uni-heidelberg.de/en), Germany. I have also been a postdoctoral researcher at the [Institute of Cosmo Sciences](http://icc.ub.edu/), [University of Barcelona](https://www.ub.edu/web/ub/en/index.html?), Spain.
 
@@ -25,11 +25,4 @@ Have a look at my [software](/software/) section. You will find codes that I hav
 
 
 {% include figure.html image="/assets/logo_unige.jpg" position="right" width="200px" link="https://www.unige.ch/sciences/physique/theorique/en/" %}
-<!-- {% include figure.html image="/assets/oxford_logo.png" position="right" width="115px" link="https://www2.physics.ox.ac.uk/" %}{% include figure.html image="/assets/queens_logo.png" position="right" width="100px" link="https://www.queens.ox.ac.uk/" %} -->
 
-
-<!-- {% capture link %}{{ site.links.orcid }}{% endcapture %}{% include button_ai.html link=link text="ORCID" icon="orcid" color="#a6ce39" %}
-{% capture link %}{{ site.links.researcherid }}{% endcapture %}{% include button_ai.html link=link text="ResearcherID" icon="researcherid" color="#336699" %}
-{% capture link %}{{ site.links.researchgate }}{% endcapture %}{% include button_ai.html link=link text="ResearchGate" icon="researchgate" color="#00ccbb" %}
-{% capture link %}{{ site.links.linkedin }}{% endcapture %}{% include button.html link=link text="LinkedIn" icon="linkedin" color="#0077b5" %}
-{% capture link %}{{ site.links.link }}{% endcapture %}{% include button.html link=link text="This Site" icon="link" color="" %} -->

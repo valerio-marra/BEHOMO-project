@@ -1,13 +1,14 @@
 // Background colours
-$backgroundColour: #ffffff !default;
+// #fef9e7
+$backgroundColour: #ffffff  !default;
 $codeBackgroundColour: #fafafa !default;
 $featureBackgroundColour: #f9fafa !default;
-$accentColour: #05bf85 !default;
+$accentColour: #e74c3c !default;
 
 // Text colours
 $headingColour: #242e2b !default;
 $bodyColour: #384743 !default;
-$linkColour: #05bf85 !default;
+$linkColour:  #e74c3c !default;
 $hoverColour: #008000 !default;
 $focusColour: #fa407a !default;
 $captionColour: #a8adac !default;
@@ -35,4 +36,5 @@ $monospacetype: (
   cap-height: 0.68
 ) !default;
 
-// TIP: Load custom fonts in _config.yaml
+// Font import, if you're using a non-standard web font
+@import url("https://fonts.googleapis.com/css?family=Merriweather:400,700");

@@ -3,7 +3,6 @@
 
   <head>
     <!-- General meta -->
-    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     {% if page.indexing == false %}
@@ -21,15 +20,11 @@
     {% else %}
       {% seo %}
     {% endif %}
-    {% if site.fonts.preconnect_urls %}
-      {% for url in site.fonts.preconnect_urls %}
-        <link rel="preconnect" href="{{ url }}" crossorigin />
-      {% endfor %}
-    {% endif %}
 
     <link rel="manifest" href="{{ "/manifest.json" | relative_url }}">
     <meta name="theme-color" content="{{ site.manifest.theme_color | default: '#242e2b' }}"/>
 
+    <link rel="stylesheet" href="/assets/css/academicons.css">
     {% if site.css_inline == true %}
       {% include site-styles.html %}
     {% else %}
@@ -39,8 +34,6 @@
     {% if site.favicons or site.avatarurl %}{% include site-favicons.html %}{% endif %}
 
     {% if site.google_analytics %}{% include site-analytics.html %}{% endif %}
-
-    {% include site-fonts.html %}
 
     {% include site-before-start.html %}
   </head>
