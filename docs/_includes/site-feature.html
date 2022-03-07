@@ -7,8 +7,8 @@
 {% endif %}
 
 {% if feature_text or feature_image %}
-  <div class="feature"{% if feature_image %} style="background-image: url({{ feature_image }});background-size: auto 250px;background-repeat: no-repeat;height: 250px;"{% endif %}>
-    <div class="container  typeset"{% if feature_text %} style="text-align: center;"{% endif %}>
+  <div class="feature"{% if feature_image %} style="background-image: url({{ feature_image }});background-size: auto 220px;background-repeat: no-repeat;height: 220px;"{% endif %}>
+    <div class="container  typeset"{% if feature_text %} style="position: absolute;top: 50px;"{% endif %}>
       {{ feature_text | markdownify }}
     </div>
   </div>
