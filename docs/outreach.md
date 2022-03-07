@@ -1,7 +1,7 @@
 ---
 title: Outreach
 feature_text: |
-  # <span style="color:white">Outreach</span>.
+  # <span style="color:white">Outreach</span>
 feature_image: "/BEHOMO-project/assets/banner.jpg"
 excerpt: ""
 layout: page

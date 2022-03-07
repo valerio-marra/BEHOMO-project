@@ -1,7 +1,7 @@
 ---
 title: Images
 feature_text: |
-  # <span style="color:white">Images</span>.
+  # <span style="color:white">Images</span>
 feature_image: "/BEHOMO-project/assets/banner.jpg"
 excerpt: ""
 layout: page

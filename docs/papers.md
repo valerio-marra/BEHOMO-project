@@ -1,7 +1,7 @@
 ---
 title: Papers
 feature_text: |
-  # <span style="color:white">Papers</span>.
+  # <span style="color:white">Papers</span>
 feature_image: "/BEHOMO-project/assets/banner.jpg"
 excerpt: ""
 layout: page
@@ -13,7 +13,5 @@ aside: false
 
 
 * **The BEHOMO project: LLTB N-body simulations**\
-_Valerio Marra, Tiago Castro, David Camarena, Stefano Borgani, Antonio Ragagnin_
+_V. Marra, T. Castro, D. Camarena, S. Borgani, A. Ragagnin_\
 [arXiv:2203.xxxx](http://arxiv.org/abs/2203.xxxx)
-
-
