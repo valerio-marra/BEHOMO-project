@@ -130,10 +130,17 @@ navigation_header:
   url: /BEHOMO-project/data_products
 - title: Outreach
   url: /BEHOMO-project/outreach
+- title: Elements
+  url: /elements/
 - title: Blog
   url: /BEHOMO-project/blog/
+- title: Categories
+  url: /categories/
+- title: Search
+  url: /search/
 - title: Contact
   url: /BEHOMO-project/contact
+
 
 navigation_footer:
 - title: Adapted from Alembic theme
