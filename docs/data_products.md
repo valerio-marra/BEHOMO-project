@@ -1,7 +1,7 @@
 ---
-title: Data product
+title: Data products
 feature_text: |
-  # <span style="color:white">Data product</span>.
+  # <span style="color:white">Data products</span>.
 feature_image: "/BEHOMO-project/assets/banner.jpg"
 excerpt: ""
 layout: page
