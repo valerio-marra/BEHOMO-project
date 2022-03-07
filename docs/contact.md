@@ -17,4 +17,4 @@ Vitória, Brazil
 
 *{{ site.email }}*
 
-{% include site-form.html %}
+<!-- {% include site-form.html %} -->
