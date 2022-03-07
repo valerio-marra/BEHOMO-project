@@ -8,7 +8,7 @@ layout: page
 aside: false
 ---
 
-{% include figure.html image="/BEHOMO-project/assets/vale.jpg" position="left" width="300px" %}
+{% include figure.html image="/BEHOMO-project/assets/vale.jpg" position="left" width="250px" %}
 
 Valerio Marra\
 Cosmo-ufes & Physics Department\
