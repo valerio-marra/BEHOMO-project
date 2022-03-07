@@ -35,7 +35,7 @@ plugins:
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
-paginate_path: blog/page:num # jekyll-paginate > blog page
+paginate_path: "/blog/page:num/" # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
   username: rjovale # jekyll-seo-tag > Owners twitter username
@@ -106,6 +106,10 @@ email: "valerio.marra@me.com"
 short_name: "BEHOMO-project" # The web application short name, defaults to the site title
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
+# site verification
+# webmaster_verifications:
+#   google: 
+
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
   16: '/BEHOMO-project/assets/logos/logo@16px.png'
@@ -130,14 +134,14 @@ navigation_header:
   url: /BEHOMO-project/data_products
 - title: Outreach
   url: /BEHOMO-project/outreach
-- title: Elements
-  url: /BEHOMO-project/elements/
-- title: Blog
-  url: /BEHOMO-project/blog/
-- title: Categories
-  url: /BEHOMO-project/categories/
-- title: Search
-  url: /BEHOMO-project/search/
+# - title: Elements
+#   url: /BEHOMO-project/elements/
+# - title: Blog
+#   url: /BEHOMO-project/blog/
+# - title: Categories
+#   url: /BEHOMO-project/categories/
+# - title: Search
+#   url: /BEHOMO-project/search/
 - title: Contact
   url: /BEHOMO-project/contact
 
