@@ -1,7 +1,7 @@
 ---
 title: Contact
 feature_text: |
-  # Contact
+  # <span style="color:white">Contact</span>.
 feature_image: "/BEHOMO-project/assets/banner.jpg"
 excerpt: ""
 layout: page

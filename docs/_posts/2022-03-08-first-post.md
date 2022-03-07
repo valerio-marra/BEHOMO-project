@@ -9,4 +9,4 @@ The presentation paper for the BEHOMO project is available [here](http://arxiv.o
 
 <!-- more -->
 
-...
+Etc
