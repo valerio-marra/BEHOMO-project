@@ -16,4 +16,4 @@ Bla bla bla
 
 Bla bla bla
 
-{% include figure.html image="/BEHOMO-project/assets/void.gif" width="700px" link="https://github.com/valerio-marra/BEHOMO-project" %}
+{% include figure.html image="/BEHOMO-project/assets/void.gif" width="750px" link="https://github.com/valerio-marra/BEHOMO-project" %}
