@@ -12,8 +12,8 @@ aside: false
 
 BEHOMO papers:
 
-* **The BEHOMO project: $\Lambda$LTB $N$-body simulations**\
-_Valerio Marra, Tiago Castro, David Camarena, Stefano Borgani, Antonio Ragagnin_\
+* **The BEHOMO project: LLTB N-body simulations**\
+_Valerio Marra, Tiago Castro, David Camarena, Stefano Borgani, Antonio Ragagnin_
 [arXiv:2203.xxxx](http://arxiv.org/abs/2203.xxxx)
 
 

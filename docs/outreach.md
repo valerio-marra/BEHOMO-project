@@ -8,6 +8,5 @@ layout: page
 aside: false
 ---
 
-<!-- {% include figure.html image="/assets/hi_class.gif" width="250px" link="http://www.hiclass-code.net/" %} -->
+{% include figure.html image="/BEHOMO-project/assets/uc.png" width="300px" link="/BEHOMO-project/" %}
 
-During m
