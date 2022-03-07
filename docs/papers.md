@@ -1,7 +1,7 @@
 ---
-title: Results
+title: Papers
 feature_text: |
-  # <span style="color:white">Results</span>.
+  # <span style="color:white">Papers</span>.
 feature_image: "/BEHOMO-project/assets/banner.jpg"
 excerpt: ""
 layout: page
