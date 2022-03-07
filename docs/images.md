@@ -10,7 +10,7 @@ aside: false
 
 Bla bla bla
 
-{% include figure.html image="/BEHOMO-project/assets/void_arrow.gif" width="580px" link="https://github.com/valerio-marra/BEHOMO-project" %}
+{% include figure.html image="/BEHOMO-project/assets/void_arrow.gif" width="570px" link="https://github.com/valerio-marra/BEHOMO-project" %}
 
 
 

@@ -27,13 +27,7 @@ This will allow us to constrain, with present and future data, deviations from l
 
 
 
-
-<!-- [rep](https://github.com/valerio-marra/BEHOMO-project).
-Check out my [papers](/Papers/) section, if you want some more detail about my academic interests. -->
-
-
-
-{% include figure.html image="/BEHOMO-project/assets/cosmo-ufes.png" position="left" width="300" link="https://www.cosmo-ufes.org" %}
+{% include figure.html image="/BEHOMO-project/assets/cosmo-ufes.png" position="left" width="250" link="https://www.cosmo-ufes.org" %}
 {% include figure.html image="/BEHOMO-project/assets/oats.png" position="right" width="100" link="https://www.oats.inaf.it/index.php/en/" %}
 
 
