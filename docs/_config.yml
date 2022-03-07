@@ -63,9 +63,9 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "News and updates on the BEHOMO project" # The post list page content
     feature_text: |
-      Welcome to the blog
+      # <span style="color:white">Blog</span>.
     feature_image: "/BEHOMO-project/assets/banner.jpg"
 
 # 6. Jekyll collections settings
@@ -93,7 +93,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "The BEHOMO project" # Site name or title, also used in jekyll-seo-tag
 logo: "/BEHOMO-project/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "This is the website for the cosmology BEyond large-scale HOMOgeneity and isotropy project." # Site description and default description, also used in jekyll-seo-tag
+description: "This is the website for the cosmology beyond large-scale homogeneity and isotropy project." # Site description and default description, also used in jekyll-seo-tag
 url: "https://valerio-marra.github.io/BEHOMO-project/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/valerio-marra/BEHOMO-project"
