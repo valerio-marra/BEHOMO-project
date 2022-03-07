@@ -1,5 +1,5 @@
 ---
-title: Home
+title: About
 feature_text: |
   # <span style="color:white">The BEHOMO project</span>.
   <span style="color:white">*Cosmology beyond large-scale homogeneity and isotropy*</span>.

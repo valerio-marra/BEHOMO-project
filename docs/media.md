@@ -1,7 +1,7 @@
 ---
-title: Science
+title: Images
 feature_text: |
-  # <span style="color:white">Science</span>.
+  # <span style="color:white">Images</span>.
 feature_image: "/BEHOMO-project/assets/banner.jpg"
 excerpt: ""
 layout: page
@@ -10,7 +10,4 @@ aside: false
 
 {% include figure.html image="/BEHOMO-project/assets/void_arrow.gif" width="500px" link="https://github.com/valerio-marra/BEHOMO-project" %}
 
-During my 
-
-* [**hi_class**](http://www.hiclass-code.net/): 
-* [**xSVT**](https://github.com/emiliobellini/xSVT): 
+{% include figure.html image="/BEHOMO-project/assets/void.gif" width="500px" link="https://github.com/valerio-marra/BEHOMO-project" %}

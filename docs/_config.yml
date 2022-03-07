@@ -126,12 +126,12 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /BEHOMO-project/
-- title: Science
-  url: /BEHOMO-project/science
 - title: Papers
   url: /BEHOMO-project/papers
 - title: Data products
   url: /BEHOMO-project/data_products
+- title: Media
+  url: /BEHOMO-project/Media
 - title: Outreach
   url: /BEHOMO-project/outreach
 # - title: Elements
