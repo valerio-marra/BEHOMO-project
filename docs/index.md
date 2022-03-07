@@ -33,7 +33,7 @@ Check out my [papers](/Papers/) section, if you want some more detail about my a
 
 
 
+{% include figure.html image="/BEHOMO-project/assets/cosmo-ufes.png" position="left" height="100px" link="https://www.cosmo-ufes.org" %}
+{% include figure.html image="/BEHOMO-project/assets/oats.png" position="right" height="100px" link="https://www.oats.inaf.it/index.php/en/" %}
 
-{% include figure.html image="/BEHOMO-project/assets/cosmo-ufes.png" position="right" width="200px" link="https://www.cosmo-ufes.org" %}
-{% include figure.html image="/BEHOMO-project/assets/oats.png" position="left" width="200px" link="https://www.oats.inaf.it/index.php/en/" %}
 

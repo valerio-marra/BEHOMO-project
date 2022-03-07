@@ -10,7 +10,7 @@ aside: false
 
 <!-- {% include figure.html image="/assets/hi_class.gif" width="250px" link="http://www.hiclass-code.net/" %} -->
 
-BEHOMO papers:
+
 
 * **The BEHOMO project: LLTB N-body simulations**\
 _Valerio Marra, Tiago Castro, David Camarena, Stefano Borgani, Antonio Ragagnin_
