@@ -14,6 +14,7 @@ aside: false
 
 Valerio Marra\
 *{{ site.email }}*
+<br/>
 
 {% include figure.html image="/BEHOMO-project/assets/cosmo-ufes.png" position="right" width="220" link="https://www.cosmo-ufes.org" %}
 
@@ -26,6 +27,7 @@ Vitória, Brazil
 
 National Institute for Astrophysics (INAF)\
 Astronomical Observatory of Trieste\
+Institute for Fundamental Physics of the Universe (IFPU)\
 Italy
 
 
