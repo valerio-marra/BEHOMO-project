@@ -66,7 +66,7 @@ collections:
     description: "News and updates on the BEHOMO project" # The post list page content
     feature_text: |
       # <span style="color:white">Blog</span>.
-    feature_image: "/BEHOMO-project/assets/banner.jpg"
+    feature_image: "/assets/banner.jpg"
 
 # 6. Jekyll collections settings
 defaults:
@@ -74,7 +74,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/BEHOMO-project/assets/banner.jpg" # Default image for sharing
+      image: "/assets/banner.jpg" # Default image for sharing
   -
     scope:
       path: ""
@@ -92,10 +92,10 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "The BEHOMO project" # Site name or title, also used in jekyll-seo-tag
-logo: "/BEHOMO-project/assets/favicomatic/apple-touch-icon-60x60.png" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/favicomatic/apple-touch-icon-60x60.png" # Site logo, also used in jekyll-seo-tag
 description: "This is the website for the cosmology beyond large-scale homogeneity and isotropy project." # Site description and default description, also used in jekyll-seo-tag
 url: "https://valerio-marra.github.io/BEHOMO-project/" # Site url, also used in jekyll-seo-tag
-baseurl: "https://valerio-marra.github.io/BEHOMO-project/"
+baseurl: "https://valerio-marra.github.io/BEHOMO-project"
 repo: "https://github.com/valerio-marra/BEHOMO-project"
 email: "valerio.marra@me.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
@@ -107,40 +107,40 @@ short_name: "BEHOMO-project" # The web application short name, defaults to the s
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # site verification
-# webmaster_verifications:
-#   google: 
+webmaster_verifications:
+  google: sRSvBihNrgl8DCXjMEMmlV-iPry-UVDu1LIE36l0Raw
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/BEHOMO-project/assets/favicomatic/favicon-16x16.png'
-  32: '/BEHOMO-project/assets/favicomatic/favicon-32x32.png'
-  96: '/BEHOMO-project/assets/favicomatic/favicon-96x96.png'
-  128: '/BEHOMO-project/assets/favicomatic/favicon-128.png'
-  196: '/BEHOMO-project/assets/favicomatic/favicon-196x196.png'
+  16: '/assets/favicomatic/favicon-16x16.png'
+  32: '/assets/favicomatic/favicon-32x32.png'
+  96: '/assets/favicomatic/favicon-96x96.png'
+  128: '/assets/favicomatic/favicon-128.png'
+  196: '/assets/favicomatic/favicon-196x196.png'
 
 
 # 9. Site navigation
 navigation_header:
 - title: About
-  url: /BEHOMO-project/
+  url: /
 - title: Papers
-  url: /BEHOMO-project/papers
+  url: /papers
 - title: Data products
-  url: /BEHOMO-project/data_products
+  url: /data_products
 - title: Images
-  url: /BEHOMO-project/images
+  url: /images
 - title: Outreach
-  url: /BEHOMO-project/outreach
+  url: /outreach
 # - title: Elements
-#   url: /BEHOMO-project/elements/
+#   url: /elements/
 # - title: Blog
-#   url: /BEHOMO-project/blog/
+#   url: /blog/
 # - title: Categories
-#   url: /BEHOMO-project/categories/
+#   url: /categories/
 # - title: Search
-#   url: /BEHOMO-project/search/
+#   url: /search/
 - title: Contact
-  url: /BEHOMO-project/contact
+  url: /contact
 
 
 navigation_footer:
