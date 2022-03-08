@@ -14,11 +14,12 @@ aside: false
 
 Valerio Marra\
 *{{ site.email }}*
+&nbsp;\
 <br/>
 
 {% include figure.html image="/BEHOMO-project/assets/cosmo-ufes.png" position="right" width="220" link="https://www.cosmo-ufes.org" %}
 
-Cosmo-ufes & Physics Department\
+Cosmo-ufes & Physics Department &nbsp;&nbsp;&nbsp;&nbsp;\
 Federal University of Espírito Santo\
 Vitória, Brazil
 
