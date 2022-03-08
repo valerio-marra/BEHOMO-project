@@ -66,7 +66,7 @@ collections:
     description: "News and updates on the BEHOMO project" # The post list page content
     feature_text: |
       # <span style="color:white">Blog</span>.
-    feature_image: "/assets/banner.jpg"
+    feature_image: "/BEHOMO-project/assets/banner.jpg"
 
 # 6. Jekyll collections settings
 defaults:
@@ -74,7 +74,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/banner.jpg" # Default image for sharing
+      image: "/BEHOMO-project/assets/banner.jpg" # Default image for sharing
   -
     scope:
       path: ""
@@ -92,10 +92,10 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "The BEHOMO project" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/favicomatic/apple-touch-icon-60x60.png" # Site logo, also used in jekyll-seo-tag
+logo: "/BEHOMO-project/assets/favicomatic/apple-touch-icon-60x60.png" # Site logo, also used in jekyll-seo-tag
 description: "This is the website for the cosmology beyond large-scale homogeneity and isotropy project." # Site description and default description, also used in jekyll-seo-tag
 url: "https://valerio-marra.github.io/BEHOMO-project/" # Site url, also used in jekyll-seo-tag
-baseurl: "https://valerio-marra.github.io/BEHOMO-project"
+baseurl: ""
 repo: "https://github.com/valerio-marra/BEHOMO-project"
 email: "valerio.marra@me.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
@@ -112,35 +112,35 @@ webmaster_verifications:
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/assets/favicomatic/favicon-16x16.png'
-  32: '/assets/favicomatic/favicon-32x32.png'
-  96: '/assets/favicomatic/favicon-96x96.png'
-  128: '/assets/favicomatic/favicon-128.png'
-  196: '/assets/favicomatic/favicon-196x196.png'
+  16: '/BEHOMO-project/assets/favicomatic/favicon-16x16.png'
+  32: '/BEHOMO-project/assets/favicomatic/favicon-32x32.png'
+  96: '/BEHOMO-project/assets/favicomatic/favicon-96x96.png'
+  128: '/BEHOMO-project/assets/favicomatic/favicon-128.png'
+  196: '/BEHOMO-project/assets/favicomatic/favicon-196x196.png'
 
 
 # 9. Site navigation
 navigation_header:
 - title: About
-  url: /
+  url: /BEHOMO-project/
 - title: Papers
-  url: /papers
+  url: /BEHOMO-project/papers
 - title: Data products
-  url: /data_products
+  url: /BEHOMO-project/data_products
 - title: Images
-  url: /images
+  url: /BEHOMO-project/images
 - title: Outreach
-  url: /outreach
+  url: /BEHOMO-project/outreach
 # - title: Elements
-#   url: /elements/
+#   url: /BEHOMO-project/elements/
 # - title: Blog
-#   url: /blog/
+#   url: /BEHOMO-project/blog/
 # - title: Categories
-#   url: /categories/
+#   url: /BEHOMO-project/categories/
 # - title: Search
-#   url: /search/
+#   url: /BEHOMO-project/search/
 - title: Contact
-  url: /contact
+  url: /BEHOMO-project/contact
 
 
 navigation_footer:
