@@ -17,5 +17,5 @@ The data products consist of the 11 even-numbered snapshots listed in the table 
 This is the first set of simulations of the ΛLTB model ever produced. These Newtonian N-body simulations can perfectly reproduce the general relativistic evolution even for deep Hubble-sized inhomogeneities. For more informations, see [Marra etal 2203.xxxx](http://arxiv.org/abs/2203.xxxx).
 
 
-{% include figure.html image="/BEHOMO-project/assets/cosmo.png" position="left" width="300" %}
+{% include figure.html image="/BEHOMO-project/assets/cosmo.png" caption="BEHOMO cosmology" position="left" width="300" %}
 {% include figure.html image="/BEHOMO-project/assets/snaps.png" position="right" width="300" %}
