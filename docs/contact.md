@@ -13,16 +13,18 @@ aside: false
 Valerio Marra\
 *{{ site.email }}*
 
+{% include figure.html image="/BEHOMO-project/assets/cosmo-ufes.png" position="right" width="250" link="https://www.cosmo-ufes.org" %}
+
 Cosmo-ufes & Physics Department\
 Federal University of Espírito Santo\
 Vitória, Brazil
 
-{% include figure.html image="/BEHOMO-project/assets/cosmo-ufes.png" position="right" width="250" link="https://www.cosmo-ufes.org" %}
+{% include figure.html image="/BEHOMO-project/assets/oats.png" position="right" width="100" link="https://www.oats.inaf.it/index.php/en/" %}
 
 National Institute for Astrophysics (INAF)\
 Astronomical Observatory of Trieste\
 Italy
 
-{% include figure.html image="/BEHOMO-project/assets/oats.png" position="right" width="100" link="https://www.oats.inaf.it/index.php/en/" %}
+
 
 <!-- {% include site-form.html %} -->
