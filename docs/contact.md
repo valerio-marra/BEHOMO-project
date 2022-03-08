@@ -10,7 +10,7 @@ aside: false
 
 <!-- {% include figure.html image="/BEHOMO-project/assets/vale.jpg" position="left" width="250px" %} -->
 
-{% include figure.html image="/BEHOMO-project/assets/vale.jpg" position="right" width="250" link="http://marra.cosmo-ufes.org" %}
+{% include figure.html image="/BEHOMO-project/assets/vale.jpg" position="right" width="100" link="http://marra.cosmo-ufes.org" %}
 
 Valerio Marra\
 *{{ site.email }}*
@@ -21,7 +21,8 @@ Cosmo-ufes & Physics Department\
 Federal University of Espírito Santo\
 Vitória, Brazil
 
-{% include figure.html image="/BEHOMO-project/assets/oats.png" image="/BEHOMO-project/assets/ifpu.png" position="right" width="100" link="https://www.oats.inaf.it/index.php/en/" %}
+{% include figure.html image="/BEHOMO-project/assets/oats.png" position="right" width="100" link="https://www.oats.inaf.it/index.php/en/" %}
+{% include figure.html image="/BEHOMO-project/assets/ifpu.png" position="right" width="100" link="https://www.oats.inaf.it/index.php/en/" %}
 
 National Institute for Astrophysics (INAF)\
 Astronomical Observatory of Trieste\
