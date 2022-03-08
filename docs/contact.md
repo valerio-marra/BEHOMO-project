@@ -23,11 +23,9 @@ Federal University of Espírito Santo\
 Vitória, Brazil
 
 {% include figure.html image="/BEHOMO-project/assets/oats.png" position="right" width="100" link="https://www.oats.inaf.it/index.php/en/" %}
-{% include figure.html image="/BEHOMO-project/assets/ifpu.png" position="right" width="150" link="https://www.oats.inaf.it/index.php/en/" %}
 
 National Institute for Astrophysics (INAF)\
 Astronomical Observatory of Trieste\
-Institute for Fundamental Physics of the Universe (IFPU)\
 Italy
 
 

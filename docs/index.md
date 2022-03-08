@@ -21,10 +21,10 @@ It is generally assumed that the universe is statistically homogeneous on very l
 The BEHOMO project studies, via the methods of numerical cosmology, the evolution of the large-scale structure on an inhomogeneous background. The basic idea is to add non-standard large-scale perturbations on top of the FLRW metric, and understand how cosmological structures evolve and how the corresponding observables are modified in an inhomogeneous universe. This will allow us to constrain, with present and future data, deviations from large-scale homogeneity and isotropy and place the standard model of cosmology on more solid grounds.
 </div>
 
-<br/>
+<br/><br/>
 
 {% include figure.html image="/BEHOMO-project/assets/cosmo-ufes.png" position="left" width="250" link="https://www.cosmo-ufes.org" %}
-{% include figure.html image="/BEHOMO-project/assets/ifpu.png" position="center" width="135" link="https://www.oats.inaf.it/index.php/en/" %}
+
 {% include figure.html image="/BEHOMO-project/assets/oats.png" position="right" width="90" link="https://www.oats.inaf.it/index.php/en/" %}
 
 
