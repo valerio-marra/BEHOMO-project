@@ -17,12 +17,13 @@ aside: false
 
 <div style="text-align: justify">
 It is generally assumed that the universe is statistically homogeneous on very large scales. Consequently, cosmologists often adopt the FLRW metric, on top of which perturbations are added. These perturbations come from inflation and generate, via gravity, the cosmic web of voids, walls, filaments and clusters that we see in the large-scale structure of the universe. However, several anomalous signals in cosmological observables have been emerging, possibly challenging the foundations of the standard model of cosmology.
-<br/>
+<br/><br/>
 The BEHOMO project studies, via the methods of numerical cosmology, the evolution of the large-scale structure on an inhomogeneous background. The basic idea is to add non-standard large-scale perturbations on top of the FLRW metric, and understand how cosmological structures evolve and how the corresponding observables are modified in an inhomogeneous universe. This will allow us to constrain, with present and future data, deviations from large-scale homogeneity and isotropy and place the standard model of cosmology on more solid grounds.
 </div>
 
 
 {% include figure.html image="/BEHOMO-project/assets/cosmo-ufes.png" position="left" width="250" link="https://www.cosmo-ufes.org" %}
-{% include figure.html image="/BEHOMO-project/assets/oats.png" position="right" width="100" link="https://www.oats.inaf.it/index.php/en/" %}
+{% include figure.html image="/BEHOMO-project/assets/ifpu.png" position="right" width="90" link="https://www.oats.inaf.it/index.php/en/" %}
+{% include figure.html image="/BEHOMO-project/assets/oats.png" position="right" width="90" link="https://www.oats.inaf.it/index.php/en/" %}
 
 
