@@ -95,7 +95,7 @@ title: "The BEHOMO project" # Site name or title, also used in jekyll-seo-tag
 logo: "/BEHOMO-project/assets/favicomatic/apple-touch-icon-60x60.png" # Site logo, also used in jekyll-seo-tag
 description: "This is the website for the cosmology beyond large-scale homogeneity and isotropy project." # Site description and default description, also used in jekyll-seo-tag
 url: "https://valerio-marra.github.io/BEHOMO-project/" # Site url, also used in jekyll-seo-tag
-baseurl: ""
+baseurl: "https://valerio-marra.github.io/BEHOMO-project/"
 repo: "https://github.com/valerio-marra/BEHOMO-project"
 email: "valerio.marra@me.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account

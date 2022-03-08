@@ -8,14 +8,17 @@ layout: page
 aside: false
 ---
 
-{% include figure.html image="/BEHOMO-project/assets/vale.jpg" position="left" width="250px" %}
+<!-- {% include figure.html image="/BEHOMO-project/assets/vale.jpg" position="left" width="250px" %} -->
 
-Valerio Marra *{{ site.email }}*\
-\
+Valerio Marra\
+*{{ site.email }}*\
+
 Cosmo-ufes & Physics Department\
-Federal University of Espírito Santo, Vitória, Brazil\
-\
+Federal University of Espírito Santo\
+Vitória, Brazil\
+
 National Institute for Astrophysics (INAF)\
-Astronomical Observatory of Trieste, Italy
+Astronomical Observatory of Trieste\
+Italy
 
 <!-- {% include site-form.html %} -->
