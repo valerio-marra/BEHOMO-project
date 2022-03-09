@@ -14,4 +14,4 @@ aside: false
 
 * **The BEHOMO project: LLTB N-body simulations**\
 _V. Marra, T. Castro, D. Camarena, S. Borgani, A. Ragagnin_\
-[arXiv:2203.xxxx](http://arxiv.org/abs/2203.xxxx)
+[arXiv:2203.04009](http://arxiv.org/abs/2203.04009)

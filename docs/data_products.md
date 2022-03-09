@@ -15,7 +15,7 @@ aside: false
 <div style="text-align: justify">
 The data products consist of the 11 even-numbered snapshots listed in the table below, for each of the 68 simulations that have been performed, together with halo catalogs and lens planes relative to all the snapshots, for a total of approximately 180 TB of data. Data can be obtained upon request.
 <br/><br/>
-This is the first set of simulations of the ΛLTB model ever produced. These Newtonian N-body simulations can perfectly reproduce the general relativistic evolution even for deep Hubble-sized inhomogeneities. For more informations, see <a href="http://arxiv.org/abs/2203.xxxx">Marra etal 2203.xxxx</a>.
+This is the first set of simulations of the ΛLTB model ever produced. These Newtonian N-body simulations can perfectly reproduce the general relativistic evolution even for deep Hubble-sized inhomogeneities. For more informations, see <a href="http://arxiv.org/abs/2203.04009">Marra etal 2203.04009</a>.
 </div>
 
 <br/>
