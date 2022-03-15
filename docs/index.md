@@ -23,8 +23,8 @@ The BEHOMO project studies, via the methods of numerical cosmology, the evolutio
 
 <br/>
 
-{% include figure.html image="/BEHOMO-project/assets/cosmo-ufes.png" position="left" width="250" link="https://www.cosmo-ufes.org" %}
+<!-- {% include figure.html image="/BEHOMO-project/assets/cosmo-ufes.png" position="left" width="250" link="https://www.cosmo-ufes.org" %}
 
-{% include figure.html image="/BEHOMO-project/assets/oats.png" position="right" width="90" link="https://www.oats.inaf.it/index.php/en/" %}
+{% include figure.html image="/BEHOMO-project/assets/oats.png" position="right" width="90" link="https://www.oats.inaf.it/index.php/en/" %} -->
 
 
