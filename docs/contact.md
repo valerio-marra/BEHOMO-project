@@ -31,7 +31,7 @@ Italy
 
 
 
-{% include figure.html image="/BEHOMO-project/assets/eu_flag.png" position="right" width="100" link="https://cordis.europa.eu/project/id/888258" %}
+{% include figure.html image="/BEHOMO-project/assets/eu_flag.png" position="right" width="150" link="https://cordis.europa.eu/project/id/888258" %}
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No [888258](https://cordis.europa.eu/project/id/888258).
 
