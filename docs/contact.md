@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact/Funding
 feature_text: |
   # <span style="color:white">Contact</span>
 feature_image: "/BEHOMO-project/assets/banner.jpg"
