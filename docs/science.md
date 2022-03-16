@@ -1,0 +1,21 @@
+---
+title: Science
+feature_text: |
+  # <span style="color:white">Science</span>
+feature_image: "/BEHOMO-project/assets/banner.jpg"
+excerpt: ""
+layout: page
+aside: false
+---
+
+<!-- {% include figure.html image="/BEHOMO-project/assets/uc.png" width="300px" link="/BEHOMO-project/" %} -->
+
+According to the standard model of cosmology – confirmed by the latest results from ESA’s Planck mission – about 5% of the energy content of the universe is made of ordinary baryons, that is, of particles belonging to the standard model of particle physics, recently glorified by the discovery of the Higgs boson. The dark sector accounts for the remaining 95%. More precisely, roughly 25% consists of a yet-undetected matter component, which is thought to be a massive particle of non-baryonic nature that interacts through weak interaction and gravity only. It is dubbed "cold dark matter." Finally, dark energy is responsible for the missing 70% of the energy content. The best candidate for dark energy to date is the so-called "cosmological constant" Λ, which is basically the energy of the vacuum and, in general relativity, is an arbitrary constant of nature. Its fundamental property – gravitational repulsion – causes the acceleration of the expansion of the universe. This is the ΛCDM model.
+
+Although phenomenologically successful, the ΛCDM model relies on the poorly understood dark energy and dark matter for observations to fit the model: one cannot deny that cosmology itself is at the moment built on shaky foundations. This provides the main motivation for testing basic principles in cosmology, such as the assumption of homogeneity and isotropy. These are indeed among the objectives of many major space- and earth-based international collaborations, which will produce detailed maps of a good fraction of the observable universe. Moreover, several anomalous signals in cosmological observables have been emerging, possibly challenging the foundations of the standard model of cosmology. Particularly relevant here are the Hubble crisis, the CMB anomalies and the cosmic dipoles.
+
+It is generally assumed that the universe is statistically homogeneous on very large scales. Consequently, cosmologists often adopt the homogeneous and isotropic FLRW metric to model the spacetime of the universe, on top of which perturbations are added. These perturbations come from inflation and generate, via gravity, the cosmic web of voids, walls, filaments and clusters that we see in the large-scale structure of the universe.
+
+The goal of the BEHOMO project is to study, via the methods of numerical cosmology, the evolution of the large-scale structure on an inhomogeneous background. The basic idea is to add non-standard large-scale perturbations on top of the FLRW metric, and understand how cosmological structures evolve and how the corresponding observables are modified in an inhomogeneous universe. This will allow us to constrain, with present and future data, deviations from large-scale homogeneity and isotropy and place the standard model of cosmology on more solid grounds. Testing basic hypotheses in cosmology is essential if we want to make progress at the fundamental level. Indeed, the ability of discovering the nature of dark matter and dark energy is tightly connected to the scientific paradigm one adopts and it is crucial to test the current FLRW paradigm.
+
+The main result is the first suite of simulations for the simplest possible inhomogeneous cosmologies: the spherically symmetric ΛLTB models. We use the Lemaître-Tolman-Bondi (LTB) metric to model a spherical inhomogeneity on top of the standard ΛCDM model. Though still a toy model, on a first approximation, one may regard the inhomogeneity of the ΛLTB model as an archetype for more realistic structures. We obtained a set of high-resolution simulations with varying inhomogeneity size and depth, the two main physical parameters describing such a structure. This is the first set of simulations of the ΛLTB model ever produced. These Newtonian N-body simulations can perfectly reproduce the general relativistic evolution even for deep and large (Hubble-sized) inhomogeneities.
